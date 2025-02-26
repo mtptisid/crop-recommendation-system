@@ -46,20 +46,20 @@ Follow these steps to set up and run the Crop Recommendation System locally.
 Ensure you have **Python 3.10+** and the required dependencies installed.  
 
 ### 🔹 Clone the Repository  
-'''
+```
 git clone https://github.com/mtptisid/crop-recommendation-system.git
 cd crop-recommendation-system
-'''
+```
 
 ### 🔹 Install Dependencies  
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ### 🔹 Run the Application  
-'''
+```
 streamlit run app.py
-'''
+```
 
 ---
 
