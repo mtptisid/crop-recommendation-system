@@ -94,6 +94,6 @@ Contributions are always welcome! If you'd like to improve the project:
 
 ## 📞 Contact  
 
-📧 **Email:** your.email@example.com  
+📧 **Email:** me@siddharamayya.in 
 🔗 **GitHub:** [yourusername](https://github.com/mtptisid)  
-🔗 **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)  
+🔗 **LinkedIn:** [Your Name](https://linkedin.com/in/siddharamayya-mathapati/)  
